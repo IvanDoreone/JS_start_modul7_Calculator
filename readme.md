@@ -9,7 +9,7 @@
 
 ## Просмотр проекта: 
 ### Cкопируйте и откройте в браузере файл [index.html](/index.html)
-### Или перейдите на сайт проекта на GitHub.pages по ссылке [ Калькулятор]() 
+### Или перейдите на сайт проекта на GitHub.pages по ссылке [ Калькулятор](https://ivandoreone.github.io/JS_start_modul7_Calculator/)
 
 
 
