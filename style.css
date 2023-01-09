@@ -1,0 +1,19 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+.col > .btn {
+    border: 1px solid black;
+    border-radius: 3px;
+    background: rgb(134, 133, 133);
+    color: black;
+}
+.col > .btn:hover {
+    background: green;
+    color: white;
+}
